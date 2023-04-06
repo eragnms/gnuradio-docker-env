@@ -99,7 +99,7 @@ preserve the state of the host's `gnuradio` directory as clean as possible.
 Next, launch an interactive bash session on the running container:
 
 ```
-docker exec -it gnuradio-docker-env_gnuradio_1 bash
+docker exec -it gnuradio-docker-env-gnuradio-1 bash
 ```
 
 Finally, compile GR inside the container:
